@@ -1,0 +1,8 @@
+05/08/2024 17:06:08 - https://httpbin.org/status/200 - online: true
+05/08/2024 17:06:08 - https://httpbin.org/status/400 - online: false
+05/08/2024 17:06:09 - https://httpbin.org/status/500 - online: false
+05/08/2024 17:06:10 - https://httpbin.org/status/200 - online: true
+05/08/2024 17:06:12 - https://httpbin.org/status/200 - online: true
+05/08/2024 17:06:12 - https://httpbin.org/status/400 - online: false
+05/08/2024 17:06:12 - https://httpbin.org/status/500 - online: false
+05/08/2024 17:06:13 - https://httpbin.org/status/200 - online: true
